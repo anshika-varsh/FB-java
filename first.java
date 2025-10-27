@@ -233,26 +233,29 @@ public class first{
 // }
 // System.out.println(sum);
 
-int [][] A={{1,2,3},{4,5,6}};
-int [][] B={{7,8,9},{10,11,12}};
-int C[][]=new int[2][3];
-for(int i=0;i<A.length;i++){
-    for(int j=0;j<A[0].length;j++){
-        C[i][j]=A[i][j]+B[i][j];
-    }
-}
-for(int[] row: C){
-    for(int val :row){
-        System.out.print(val);
-    }
-    System.out.println("");
-}
+// int [][] A={{1,2,3},{4,5,6}};
+// int [][] B={{7,8,9},{10,11,12}};
+// int C[][]=new int[2][3];
+// for(int i=0;i<A.length;i++){
+//     for(int j=0;j<A[0].length;j++){
+//         C[i][j]=A[i][j]+B[i][j];
+//     }
+// }
+// for(int[] row: C){
+//     for(int val :row){
+//         System.out.print(val);
+//     }
+//     System.out.println("");
+// }
 
 // int [][] A={{1,2,3},{4,5,6}};
 // int [][] B={{7,8,9},{10,11,12}};
 // System.out.println(A.length);
 // System.out.println(A[0].length);
 
+//right triangle & inverted right triangle
+//palindrom
+//reverse number
 
 
       
